@@ -1,7 +1,6 @@
 ### Prazer, me chamo Henry Gois.
 <div align="center">
   <a href="https://github.com/henry-gois">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henry-gois&show_icons=true&theme=dark&count_private=true&rank_icon=github&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-gois&layout=compact&langs_count=7&theme=dark"/>
     
 </div>
